@@ -1,0 +1,26 @@
+Employee ID,Name,Age,Department,Salary,Years at Company,Performance Score,Attrition
+1001,Rakesh Kumar,45,HR,200000,15,98.88,No
+1002,Sneha Mahto,45,TL,100000,12,95,No
+1003,Roshan Kumar,46,TL,45000,7,68.87,Yes
+1004,Chandan Mahto,44,IT,35000,9,59.9,No
+1005,Manish Kumar,45,IT,50000,6,88,Yes
+1006,Akash Thakur,48,Sales,65000,8,85,Yes
+1007,Sadanand ,50,Sales,36000,2,70.12,Yes
+1008,Lakshya ,48,Sales,28000,5,50.52,No
+1009,Prakash Mahto,25,Marketing,45000,7,62.04,No
+1010,Pammi Kumari,38,R&D,65000,6,72.22,Yes
+1011,Vivek Kumar,36,Operational,65000,10,66.66,No
+1012,Amit Kumar,50,IT,57000,5,69.98,Yes
+1013,Ritik Kumar,48,Sales,50000,8,70,No
+1014,Akhil Mahto,26,DS&DA,72000,9,72.36,No
+1015,Anmol Kumar,48,IT,65400,3,90,No
+1016,Nishant Mahto,41,Operational,82000,1,95,Yes
+1017,Jay Kumar,48,Marketing,30000,0,95,Yes
+1018,Pintu Kumar,39,Marketing,40000,8,67.65,Yes
+1019,Sachin Mahto ,36,Sales,25000,7,49.99,Yes
+1020,Ritika Kumari,35,R&D,60000,6,72.22,No
+1021,Sakshi Kumari,23,R&D,70000,5,87.9,Yes
+1022,Amit Kumar,38,IT,56500,2,76,Yes
+1023,Sakshi Kumari,36,Sales,50000,3,70,No
+1024,Pammi Kumari,28,Marketing,30000,7,50,Yes
+1025,Shivam Kumar,49,TL,65500,7,65,Yes
